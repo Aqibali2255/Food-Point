@@ -130,7 +130,7 @@ session_start();
     <div class="carousel-item">
       <img src="foodimages\sliderimgdeal.jpg" alt="sliderimgdeal" class="d-block" style="width:100%;height:600px;">
       <div class="carousel-caption">
-        <h3 class="bolt">PAKISTEN FAST FOOD RESTTRORENT</h3>
+        <h3 class="bolt">PAKISTEN FAST FOOD RESTTRORENT!</h3>
         <p class="bolt">BEST FOOD ARE AVALIBLE  IN FOOD HOUSE!</p>
       </div>  
     </div>
